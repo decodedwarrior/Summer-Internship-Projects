@@ -22,19 +22,20 @@ This repository contains my weekly projects developed during the Summer Internsh
 
 ---
 
-## Week 4: (Your Week 4 Project Name)
-**Project:** (Brief description of your Week 4 project)
+## Week 4: (Create a simple REST API for managing users.Use Postman to test API endpoints.)
+**Project:** (Backend Basics with Node.js &
+Express.js)
 **Live Demo:** [Click Here](<http://localhost:3000>)
 
 ---
 
-## Week 5: (Your Week 5 Project Name)
-**Project:** (Brief description of your Week 5 project)
+## Week 5: (Build a user authentication system )
+**Project:** (Database Management with
+MongoDB & Integration)
 **Live Demo:** [Click Here](<>)
 
 ---
 
 ## Week 6: Task Manager App (Full-Stack)
 **Project:** Full-stack Task Management Application with User Auth, CRUD, MongoDB, React, and Node.js.
-**Live Demo (Frontend):** [Click Here](https://task-manager-theta-wheat-52.vercel.app) [cite: 7]
-**Live Demo (Backend API):** [Click Here](https://taok-manager-3ypronender.com) [cite: 7]
+**Live Demo (Frontend):** [Click Here](https://task-manager-theta-wheat-52.vercel.app/) 
